@@ -1,0 +1,6 @@
+dataset/validation/cats/*
+dataset/validation/dogs/*
+dataset/train/cats/*
+dataset/train/dogs/*
+specific_images/*
+models/*
