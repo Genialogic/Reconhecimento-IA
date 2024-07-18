@@ -1,4 +1,4 @@
-# IA RECOGNITION
+# Reconhecimento-IA
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=flat&logo=Tensorflow&logoColor=white)
@@ -14,7 +14,7 @@ Este projeto demonstra a criação, treinamento e implementação de um modelo d
 1. Caso você tenha o git instalado, execute este trecho no prompt de comando dentro do diretório desejado:
 
 ```bash
-git clone https://github.com/Genialogic/ia-recognition.git
+git clone https://github.com/Genialogic/Reconhecimento-IA.git
 ```
 
 2. Entre dentro da pasta do projeto:
@@ -63,6 +63,9 @@ Para você treinar e criar o seu próprio modelo de reconhecimento de imagem, vo
 
 ```
 ia-recognition/
+├── models/
+├── specific-images/
+├── uploads/
 ├── dataset/
 │   ├── train/
 │   │   ├── cats/
