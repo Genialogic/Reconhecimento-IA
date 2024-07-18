@@ -9,7 +9,7 @@
 
 Este projeto demonstra a criação, treinamento e implementação de um modelo de inteligência artificial utilizando Python, TensorFlow e Keras. O projeto inclui um script principal (main.py) que cria e treina o modelo, e um script de endpoint (endpoint.py) que cria um endpoint Flask para receber imagens e retornar as previsões do modelo.
 
-![Imagem de teste do uso do modelo da inteligência artificial utilizando um dataset de 2.000 imagens]()
+![Imagem de teste do uso do modelo da inteligência artificial utilizando um dataset de 2.000 imagens](https://github.com/Genialogic/Reconhecimento-IA/blob/main/readme/test-ai.png)
 Imagem de um teste de validação utilizando um dataset com 2.000 imagens.
 
 ## Como instalar
