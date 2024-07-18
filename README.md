@@ -44,7 +44,7 @@ Para você treinar e criar o seu próprio modelo de reconhecimento de imagem, vo
 
 1. Treinamento (Train)
    - Este diretório contém as pastas de classes de aprendizado do modelo, junto com as imagens para treino.
-   - Acesse o diretório /dataset/train/_/_.jpg e adicione os arquivos de imagem para que o modelo possa analisá-los e aprender.
+   - Acesse o diretório /dataset/train/_*_.jpg e adicione os arquivos de imagem para que o modelo possa analisá-los e aprender.
    - Exemplo:
 
 ```
@@ -54,7 +54,7 @@ Para você treinar e criar o seu próprio modelo de reconhecimento de imagem, vo
 
 2. Validação (Validation)
    - Este diretório é usado para validar a precisão do modelo com dados que ele ainda não viu durante o treinamento.
-   - Acesse o diretório /dataset/validation/_/_.jpg e adicione as imagens que serão usadas para validar o modelo.
+   - Acesse o diretório /dataset/validation/_*_.jpg e adicione as imagens que serão usadas para validar o modelo.
    - Exemplo:
 
 ```
